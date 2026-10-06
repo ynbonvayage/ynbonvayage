@@ -1,7 +1,7 @@
 ## Projects
 
 - **[SecureGate](https://github.com/ynbonvayage/SecureGate)**: Automated SAST pipeline on AWS that scans every pull request and blocks merges on high-severity vulnerabilities. *AWS (API Gateway, Lambda, SQS, EC2, DynamoDB, S3), Terraform, GitHub Actions*
-- **[NutriScan](https://github.com/ynbonvayage/Nutriscan)**: Real-time food detection and nutrition estimation from a live webcam feed, using a fine-tuned YOLOv8s (mAP@0.5 0.711 → 0.871). *C++, YOLOv8s, OpenCV*
+- **[NutriScan](https://github.com/ynbonvayage/Nutriscan)**: Real-time food detection and nutrition estimation from a live webcam feed, using a fine-tuned YOLOv8s (mAP@0.5 0.711 → 0.871). *YOLOv8s, OpenCV*
 - **[Reference-Point-Guided RRT](https://github.com/ynbonvayage/reference-point-guided-rrt)**: RRT variant that grows only through pre-selected reference points, so it runs fast, handles narrow corridors and finds near-shortest paths. *Python*
 - **[Memoir for Seniors](https://github.com/ynbonvayage/CS6120_final_project)**: NLP system that turns seniors' oral histories into memoirs, with a GPT-4o virtual interviewer guided by NER and emotion signals. *Python, GPT-4o, RoBERTa, BERTScore*
 - **Canvas LMS Clone** ([frontend](https://github.com/ynbonvayage/kanbas-react-web-app) · [backend](https://github.com/ynbonvayage/kanbas-node-server-app)): Full-stack learning management system with CI/CD through GitHub Actions. *React, Redux, Node.js, Express, MongoDB Atlas*
